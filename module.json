@@ -1,19 +1,19 @@
 {
-  "name": "p5e-Battlers",
-  "title": "p5e Battlers",
-  "description": "A collection of Roll Tables for Pokemon5E",
-  "author": "mdahms95",
-  "version": "0.1.0",
-  "minimumCoreVersion": "0.5.0",
-  "compatibleCoreVersion": "0.5.5",
-  "url": "https://github.com/mdahms95/Battlers",
-  "manifest": "https://raw.githubusercontent.com/mdahms95/Battlers/main/module.json",
-  "download": "https://github.com/mdahms95/Battlers/releases/download/0.1.0/Battlers.zip",
-  "packs": [
-    {
-      "name": "battlers",
-      "label": "Battlers",
-      "path": "packs/Battlers.db",
-      "entity": "RollTable",
-      "module": "p5e Battlers"
-    }
+	"name": "p5e-Battlers",
+	"title": "p5e Battlers",
+	"description": "A collection of Roll Tables for Pokemon5E",
+	"author": "mdahms95",
+	"version": "0.1.0",
+	"minimumCoreVersion": "0.5.0",
+	"compatibleCoreVersion": "0.5.5",
+	"url": "https://github.com/mdahms95/Battlers",
+	"manifest": "https://raw.githubusercontent.com/mdahms95/Battlers/main/module.json",
+	"download": "https://github.com/mdahms95/Battlers/releases/download/0.1.0/Battlers.zip",
+	"packs": [{
+		"name": "p5ebattlers",
+		"label": "Battlers",
+		"path": "packs/Battlers.db",
+		"entity": "RollTable",
+		"module": "Pokemon5E"
+	}]
+}
